@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1e4e4b18ec8d4bb4b8b30a5800f6c496
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Zombie Control Expnaded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 546a3c122d5502448b4aaf9e4da35f6c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

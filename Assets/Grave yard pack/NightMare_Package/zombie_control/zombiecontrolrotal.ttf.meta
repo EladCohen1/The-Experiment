@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 54c730894c66fc644b64db3fc9f1ba97
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Zombie Control Rotalic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ec5a9fe38b9004646825d5a805d5a5c0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

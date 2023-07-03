@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 804a515095145c5409c8c9ab02747482
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Zombie Control 3D Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cc78ea301e5b3fd4591f8e5d005f0380, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6f1f47d27bfd2ce47b1ff194406f141a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Zombie Control Rotated
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0467bab4413841a49a07c18c265bb281, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

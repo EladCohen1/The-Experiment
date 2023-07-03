@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c654ce61a1aba96418e9130d8dad7af2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Zombie Control 3D
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b4c49aa9361da1c4fa4a4d860ade5bb4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
