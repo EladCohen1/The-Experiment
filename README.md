@@ -1,5 +1,5 @@
 # The Experiment - a small horror game
- Want to learn more? click [here](https://eladcohendesign.com/the-experiment/)!
+ [Official Website](https://eladcohendesign.com/the-experiment/)
  
  In a dark and empty hospital room, he woke up.
  with no memory of his past, he is only left with questions and doubts.
